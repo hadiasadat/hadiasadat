@@ -42,6 +42,7 @@ Project 1
   
   
   Project 2
+  
 • **Videogame Market Analytics (Power BI)**  
   Market analysis of the global videogame industry, focused on sales trends, regional differences, top genres, publishers, and platforms.  
   🔗 GitHub Repository: https://github.com/hadiasadat/vedio-giochi-data-set
