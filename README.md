@@ -39,11 +39,6 @@ _ Currently working on data analysis projects using Python, SQL, Power BI, and T
   🌐 [Live Project](https://hadiasadat.github.io/delivery-operations-analysis/)  
   🔗 [GitHub Repository](https://github.com/hadiasadat/delivery-operations-analysis)
 
-- **Sales & Performance Dashboard (Power BI, SQL)**  
-  Interactive dashboard for business performance analysis, KPIs monitoring, and trend identification. *(In progress)*
-
-- **Customer Insights & Segmentation (SQL, Tableau)**  
-  Data exploration and visualization project focused on customer behavior, segmentation, and actionable insights. *(In progress)*
 
 - [Project 2 — Title](link)
 - [Project 3 — Title](link)
