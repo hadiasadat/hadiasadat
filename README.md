@@ -31,9 +31,19 @@ I enjoy working with data to understand problems, support decisions, and communi
 
 
 ## 📌 Featured Projects
-## 📌 Featured Projects
-_Projects will be added soon. Currently working on data analysis and SQL-based projects._
-- [Project 1 — Delivery-Operations-Analysis]((https://hadiasadat.github.io/delivery-operations-analysis/))
+_Projects will be added soon. Currently working on data analysis projects using Python, SQL, Power BI, and Tableau._
+
+- **Delivery Operations Analysis & Customer Clustering (Python)**  
+  End-to-end data analysis project focused on delivery efficiency, courier behavior, idle time detection, and customer segmentation.  
+  🌐 [Live Project](https://hadiasadat.github.io/delivery-operations-analysis/)  
+  🔗 [GitHub Repository](https://github.com/hadiasadat/delivery-operations-analysis)
+
+- **Sales & Performance Dashboard (Power BI, SQL)**  
+  Interactive dashboard for business performance analysis, KPIs monitoring, and trend identification. *(In progress)*
+
+- **Customer Insights & Segmentation (SQL, Tableau)**  
+  Data exploration and visualization project focused on customer behavior, segmentation, and actionable insights. *(In progress)*
+
 - [Project 2 — Title](link)
 - [Project 3 — Title](link)
 
