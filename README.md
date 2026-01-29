@@ -33,11 +33,13 @@ I have completed a part-time Master in Business Data Analysis, strengthening my 
 
 ## 📌 Featured Projects
 _ Currently working on data analysis projects using Python, SQL, Power BI, and Tableau._
+
 Project 1
 - **Delivery Operations Analysis & Customer Clustering (Python)**  
   End-to-end data analysis project focused on delivery efficiency, courier behavior, idle time detection, and customer segmentation.  
   🌐 [Live Project](https://hadiasadat.github.io/delivery-operations-analysis/)  
   🔗 [GitHub Repository](https://github.com/hadiasadat/delivery-operations-analysis)
+  
   
   Project 2
 • **Videogame Market Analytics (Power BI)**  
