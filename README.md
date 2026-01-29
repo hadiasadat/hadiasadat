@@ -33,7 +33,7 @@ I enjoy working with data to understand problems, support decisions, and communi
 ## 📌 Featured Projects
 ## 📌 Featured Projects
 _Projects will be added soon. Currently working on data analysis and SQL-based projects._
-- [Project 1 — Delivery-Operations-Analysis]([link](https://hadiasadat.github.io/delivery-operations-analysis/))
+- [Project 1 — Delivery-Operations-Analysis]((https://hadiasadat.github.io/delivery-operations-analysis/))
 - [Project 2 — Title](link)
 - [Project 3 — Title](link)
 
