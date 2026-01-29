@@ -38,10 +38,12 @@ _ Currently working on data analysis projects using Python, SQL, Power BI, and T
   End-to-end data analysis project focused on delivery efficiency, courier behavior, idle time detection, and customer segmentation.  
   🌐 [Live Project](https://hadiasadat.github.io/delivery-operations-analysis/)  
   🔗 [GitHub Repository](https://github.com/hadiasadat/delivery-operations-analysis)
-  
-  • **[Videogame Market Analytics (Power BI)](https://github.com/hadiasadat/vedio-giochi-data-set)**  
+• **Videogame Market Analytics (Power BI)**  
   Market analysis of the global videogame industry, focused on sales trends, regional differences, top genres, publishers, and platforms.  
   🔗 GitHub Repository: https://github.com/hadiasadat/vedio-giochi-data-set
+  • **[Videogame Market Analytics (Power BI)](https://github.com/hadiasadat/vedio-giochi-data-set)**  
+  Market analysis of the global videogame industry, focused on sales trends, regional differences, top genres, publishers, and platforms.
+
 
 - [Project 3 — Title](link)
 
