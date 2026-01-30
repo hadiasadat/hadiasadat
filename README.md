@@ -1,9 +1,10 @@
 # Hi, I'm Hadia 👋
 
 I have completed a part-time Master’s degree in Business Data Analysis at Talent Garden Italy, as well as an additional Data Analysis course at Sistech (Italy). I am a Junior Data Analyst working on hands-on projects focused on real-world data, operational challenges, and actionable insights. I use data analysis and visualization to support decision-making and translate complex data into clear, business-focused insights.
-- Exploratory Data Analysis (EDA) and data storytelling  
-- SQL for analytics (joins, CTEs, window functions)  
-- Building dashboards, KPI reports, and business insights with Power BI  
+- Conducting Exploratory Data Analysis (EDA) and transforming data into compelling stories 
+- Using SQL for analytics 
+- Building interactive dashboards, KPI reports, and business insights using Power BI, Tableau
+- Excel avanzato (Pivot Tables, Power Query, Power Pivot, formule avanzate)
 
 ## 🧰 Tech Stack
 
@@ -34,7 +35,6 @@ Project 1
 
 - **Delivery Operations Analysis & Customer Clustering (Python)**  
   End-to-end data analysis project focused on delivery efficiency, courier behavior, idle time detection, and customer segmentation.  
-  🌐 [Live Project](https://hadiasadat.github.io/delivery-operations-analysis/)  
   🔗 [GitHub Repository](https://github.com/hadiasadat/delivery-operations-analysis)
   
   
