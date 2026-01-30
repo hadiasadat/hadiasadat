@@ -1,8 +1,6 @@
-# Hi, I'm Hadia 👋
-🎯 Junior Data Analyst | 📄 [Hadia_Sadat_Data_Analyst_CV.pdf](https://github.com/hadiasadat/delivery-operations-analysis/blob/main/CV%20of%20Hadia%20data%20analyst.pdf.pdf)
+I am a Junior Data Analyst with a strong academic background in Business Data Analysis and hands-on experience on real-world datasets. I have completed a part-time Master’s in Business Data Analysis at Talent Garden Italy and a Data Analysis course at Sistech (Italy), working on projects focused on data cleaning, analysis, and visualization to support data-driven decision-making.
+I also hold a Master’s Degree in Pharmacy, which enhances my analytical thinking, attention to detail, and problem-solving skills.
 
-
-I have completed a part-time Master’s degree in Business Data Analysis at Talent Garden Italy, as well as an additional Data Analysis course at Sistech (Italy). I am a Junior Data Analyst working on hands-on projects focused on real-world data, operational challenges, and actionable insights. I use data analysis and visualization to support decision-making and translate complex data into clear, business-focused insights.
 - Conducting Exploratory Data Analysis (EDA) and transforming data into compelling stories 
 - Using SQL for analytics 
 - Building interactive dashboards, KPI reports, and business insights using Power BI, Tableau
