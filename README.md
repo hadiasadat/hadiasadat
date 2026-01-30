@@ -1,4 +1,6 @@
 # Hi, I'm Hadia 👋
+🎯 Junior Data Analyst | 📄 [Download CV](CV%20of%20Hadia%20data%20analyst.pdf.pdf)
+
 
 I have completed a part-time Master’s degree in Business Data Analysis at Talent Garden Italy, as well as an additional Data Analysis course at Sistech (Italy). I am a Junior Data Analyst working on hands-on projects focused on real-world data, operational challenges, and actionable insights. I use data analysis and visualization to support decision-making and translate complex data into clear, business-focused insights.
 - Conducting Exploratory Data Analysis (EDA) and transforming data into compelling stories 
