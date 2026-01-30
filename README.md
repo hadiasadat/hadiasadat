@@ -1,3 +1,5 @@
+# Hi, I'm Hadia 👋
+
 I am a Junior Data Analyst with a strong academic background in Business Data Analysis and hands-on experience on real-world datasets. I have completed a part-time Master’s in Business Data Analysis at Talent Garden Italy and a Data Analysis course at Sistech (Italy), working on projects focused on data cleaning, analysis, and visualization to support data-driven decision-making.
 I also hold a Master’s Degree in Pharmacy, which enhances my analytical thinking, attention to detail, and problem-solving skills.
 
