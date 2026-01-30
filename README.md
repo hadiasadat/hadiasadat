@@ -36,6 +36,7 @@ Project 1
 - **Delivery Operations Analysis & Customer Clustering (Python)**  
   End-to-end data analysis project focused on delivery efficiency, courier behavior, idle time detection, and customer segmentation.  
   🔗 [GitHub Repository](https://github.com/hadiasadat/delivery-operations-analysis)
+  [Live Project](https://hadiasadat.github.io/delivery-operations-analysis/)
   
   
   Project 2
@@ -50,6 +51,7 @@ Project 1
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/hadia-sadat
 - Email: hadiasadat6@gmail.com
+
 
 
 
