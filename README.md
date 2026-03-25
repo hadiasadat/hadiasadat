@@ -32,16 +32,8 @@ I also hold a Master’s Degree in Pharmacy, which enhances my analytical thinki
 
 ## 📌 Featured Projects
 _ Currently working on data analysis projects using Python, SQL, Power BI, and Tableau._
-
-Project 1
-
-- **Delivery Operations Analysis & Customer Clustering (Python)**  
-  End-to-end data analysis project focused on delivery efficiency, courier behavior, idle time detection, and customer segmentation.  
-  🔗 [GitHub Repository](https://github.com/hadiasadat/delivery-operations-analysis)
-  [Live Project](https://hadiasadat.github.io/delivery-operations-analysis/)
   
-  
-  Project 2
+  Project 1
   
 • **Videogame Market Analytics (Power BI)**  
   Market analysis of the global videogame industry, focused on sales trends, regional differences, top genres, publishers, and platforms.  
