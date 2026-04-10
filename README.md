@@ -34,12 +34,14 @@ I also hold a Master’s Degree in Pharmacy, which enhances my analytical thinki
 
 
  Project 1
+ 
   Data Job Market Analysis (SQL | Power BI | Tableau)
 📌 Project Overview
 
 This project analyzes the global data job market using SQL (SQLite), Power BI, and Tableau.
 
 The objective is to explore salary trends, job demand, and the impact of technical skills, with a specific focus on the United States job market.
+
   link of project:https://github.com/hadiasadat/data-job-market-analysis
   
   Project 2
