@@ -31,17 +31,16 @@ I also hold a Master’s Degree in Pharmacy, which enhances my analytical thinki
 - Orange, Gretl, Gephi  
 
 ## 📌 Featured Projects
-_ Currently working on data analysis projects using Python, SQL, Power BI, and Tableau._
 
 
- Project 2
+ Project 1
   Data Job Market Analysis (SQL | Power BI | Tableau)
 📌 Project Overview
 
 This project analyzes the global data job market using SQL (SQLite), Power BI, and Tableau.
 
 The objective is to explore salary trends, job demand, and the impact of technical skills, with a specific focus on the United States job market.
-  
+  link of project:https://github.com/hadiasadat/data-job-market-analysis
   
   Project 2
   
