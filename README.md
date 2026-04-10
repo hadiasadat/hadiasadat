@@ -32,8 +32,18 @@ I also hold a Master’s Degree in Pharmacy, which enhances my analytical thinki
 
 ## 📌 Featured Projects
 _ Currently working on data analysis projects using Python, SQL, Power BI, and Tableau._
+
+
+ Project 2
+  Data Job Market Analysis (SQL | Power BI | Tableau)
+📌 Project Overview
+
+This project analyzes the global data job market using SQL (SQLite), Power BI, and Tableau.
+
+The objective is to explore salary trends, job demand, and the impact of technical skills, with a specific focus on the United States job market.
   
-  Project 1
+  
+  Project 2
   
 • **Videogame Market Analytics (Power BI)**  
   Market analysis of the global videogame industry, focused on sales trends, regional differences, top genres, publishers, and platforms.  
